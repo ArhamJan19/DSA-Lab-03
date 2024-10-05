@@ -1,0 +1,9 @@
+﻿  Task1.cpp
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(174,31): warning C4244: 'argument': conversion from 'double' to 'Type', possible loss of data
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(174,31): warning C4244:         with
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(174,31): warning C4244:         [
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(174,31): warning C4244:             Type=int
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(174,31): warning C4244:         ]
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(273,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\DSA_Lab_3_conversion\Task1.cpp(273,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  DSA_Lab_3_conversion.vcxproj -> C:\Users\Laptop inn\source\repos\DSA_Lab_3_conversion\x64\Debug\DSA_Lab_3_conversion.exe
